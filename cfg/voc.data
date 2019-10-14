@@ -1,0 +1,15 @@
+metayolo = 0
+data = voc
+train = /scratch/bykang/datasets/voc_train.txt
+valid = /scratch/bykang/datasets/2007_test.txt
+# valid = /scratch/bykang/coco/cocolist/valid5.txt
+# meta = data/voc_traindict_bbox_5shot.txt
+meta = data/voc_traindict_bbox_5shot.txt
+novel = data/voc_novels.txt
+novelid = 0
+joint = 0
+names = data/voc.names
+backup = backup/yolo
+#gpus  = 1,2,3,4
+gpus = 6,7,8,9
+#gpus = 1,3,4,8

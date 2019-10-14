@@ -1,0 +1,4 @@
+orange,zebra,traffic light,wine glass,cake
+orange,zebra,traffic light,wine glass,cake,toilet,apple,kite,bear,fork
+orange,zebra,traffic light,wine glass,cake,toilet,apple,kite,bear,fork,toothbrush,broccoli,frisbee,cell phone,fire hydrant,remote,parking meter,toaster,vase,sandwich
+aeroplane,bicycle,bird,boat,bottle,bus,car,cat,chair,cow,diningtable,dog,horse,motorbike,person,pottedplant,sheep,sofa,train,tvmonitor

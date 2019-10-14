@@ -1,0 +1,10 @@
+results*
+scs*
+log*
+backup*
+output*
+.vscode*
+*.json
+*.pyc
+darknet19_448.conv.23
+pycocotools*

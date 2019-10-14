@@ -1,0 +1,10 @@
+/home/bykang/voc/VOCdevkit/VOC2012/JPEGImages/2008_006761.jpg
+/home/bykang/voc/VOCdevkit/VOC2007/JPEGImages/005620.jpg
+/home/bykang/voc/VOCdevkit/VOC2007/JPEGImages/003032.jpg
+/home/bykang/voc/VOCdevkit/VOC2012/JPEGImages/2008_005719.jpg
+/home/bykang/voc/VOCdevkit/VOC2012/JPEGImages/2009_003396.jpg
+/home/bykang/voc/VOCdevkit/VOC2012/JPEGImages/2008_008050.jpg
+/home/bykang/voc/VOCdevkit/VOC2007/JPEGImages/001107.jpg
+/home/bykang/voc/VOCdevkit/VOC2012/JPEGImages/2008_007374.jpg
+/home/bykang/voc/VOCdevkit/VOC2012/JPEGImages/2008_006548.jpg
+/home/bykang/voc/VOCdevkit/VOC2012/JPEGImages/2008_008765.jpg

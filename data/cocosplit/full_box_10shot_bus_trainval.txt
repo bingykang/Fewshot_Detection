@@ -1,0 +1,6 @@
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000257243.jpg
+/scratch/bykang/coco/images/val2014/COCO_val2014_000000359937.jpg
+/scratch/bykang/coco/images/val2014/COCO_val2014_000000163585.jpg
+/scratch/bykang/coco/images/val2014/COCO_val2014_000000574425.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000027675.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000315997.jpg

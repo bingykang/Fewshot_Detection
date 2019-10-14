@@ -1,0 +1,6 @@
+bird,bus,cow,motorbike,sofa
+aeroplane,bottle,cow,horse,sofa
+boat,cat,motorbike,sheep,sofa
+bicycle,bird,motorbike,train,tvmonitor
+aeroplane,bird,bus,cat,person
+car,diningtable,motorbike,pottedplant,tvmonitor

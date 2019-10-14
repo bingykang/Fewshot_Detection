@@ -1,0 +1,3 @@
+/scratch/bykang/datasets/VOCdevkit/VOC2007/JPEGImages/008388.jpg
+/scratch/bykang/datasets/VOCdevkit/VOC2012/JPEGImages/2010_004930.jpg
+/scratch/bykang/datasets/VOCdevkit/VOC2012/JPEGImages/2008_001018.jpg

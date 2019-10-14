@@ -1,0 +1,16 @@
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000474330.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000260445.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000080749.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000229052.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000391116.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000091747.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000485891.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000302932.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000512845.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000058080.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000273874.jpg
+/scratch/bykang/coco/images/val2014/COCO_val2014_000000328921.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000305208.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000451909.jpg
+/scratch/bykang/coco/images/train2014/COCO_train2014_000000571694.jpg
+/scratch/bykang/coco/images/val2014/COCO_val2014_000000423944.jpg

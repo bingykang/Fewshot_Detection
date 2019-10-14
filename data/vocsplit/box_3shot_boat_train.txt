@@ -1,0 +1,1 @@
+/scratch/bykang/datasets/VOCdevkit/VOC2012/JPEGImages/2008_001136.jpg

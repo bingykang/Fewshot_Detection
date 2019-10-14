@@ -1,0 +1,80 @@
+person /scratch/bykang/coco/cocolist/full_box_10shot_person_trainval.txt
+bicycle /scratch/bykang/coco/cocolist/full_box_10shot_bicycle_trainval.txt
+car /scratch/bykang/coco/cocolist/full_box_10shot_car_trainval.txt
+motorbike /scratch/bykang/coco/cocolist/full_box_10shot_motorbike_trainval.txt
+aeroplane /scratch/bykang/coco/cocolist/full_box_10shot_aeroplane_trainval.txt
+bus /scratch/bykang/coco/cocolist/full_box_10shot_bus_trainval.txt
+train /scratch/bykang/coco/cocolist/full_box_10shot_train_trainval.txt
+truck /scratch/bykang/coco/cocolist/full_box_10shot_truck_trainval.txt
+boat /scratch/bykang/coco/cocolist/full_box_10shot_boat_trainval.txt
+traffic light /scratch/bykang/coco/cocolist/full_box_10shot_traffic light_trainval.txt
+fire hydrant /scratch/bykang/coco/cocolist/full_box_10shot_fire hydrant_trainval.txt
+stop sign /scratch/bykang/coco/cocolist/full_box_10shot_stop sign_trainval.txt
+parking meter /scratch/bykang/coco/cocolist/full_box_10shot_parking meter_trainval.txt
+bench /scratch/bykang/coco/cocolist/full_box_10shot_bench_trainval.txt
+bird /scratch/bykang/coco/cocolist/full_box_10shot_bird_trainval.txt
+cat /scratch/bykang/coco/cocolist/full_box_10shot_cat_trainval.txt
+dog /scratch/bykang/coco/cocolist/full_box_10shot_dog_trainval.txt
+horse /scratch/bykang/coco/cocolist/full_box_10shot_horse_trainval.txt
+sheep /scratch/bykang/coco/cocolist/full_box_10shot_sheep_trainval.txt
+cow /scratch/bykang/coco/cocolist/full_box_10shot_cow_trainval.txt
+elephant /scratch/bykang/coco/cocolist/full_box_10shot_elephant_trainval.txt
+bear /scratch/bykang/coco/cocolist/full_box_10shot_bear_trainval.txt
+zebra /scratch/bykang/coco/cocolist/full_box_10shot_zebra_trainval.txt
+giraffe /scratch/bykang/coco/cocolist/full_box_10shot_giraffe_trainval.txt
+backpack /scratch/bykang/coco/cocolist/full_box_10shot_backpack_trainval.txt
+umbrella /scratch/bykang/coco/cocolist/full_box_10shot_umbrella_trainval.txt
+handbag /scratch/bykang/coco/cocolist/full_box_10shot_handbag_trainval.txt
+tie /scratch/bykang/coco/cocolist/full_box_10shot_tie_trainval.txt
+suitcase /scratch/bykang/coco/cocolist/full_box_10shot_suitcase_trainval.txt
+frisbee /scratch/bykang/coco/cocolist/full_box_10shot_frisbee_trainval.txt
+skis /scratch/bykang/coco/cocolist/full_box_10shot_skis_trainval.txt
+snowboard /scratch/bykang/coco/cocolist/full_box_10shot_snowboard_trainval.txt
+sports ball /scratch/bykang/coco/cocolist/full_box_10shot_sports ball_trainval.txt
+kite /scratch/bykang/coco/cocolist/full_box_10shot_kite_trainval.txt
+baseball bat /scratch/bykang/coco/cocolist/full_box_10shot_baseball bat_trainval.txt
+baseball glove /scratch/bykang/coco/cocolist/full_box_10shot_baseball glove_trainval.txt
+skateboard /scratch/bykang/coco/cocolist/full_box_10shot_skateboard_trainval.txt
+surfboard /scratch/bykang/coco/cocolist/full_box_10shot_surfboard_trainval.txt
+tennis racket /scratch/bykang/coco/cocolist/full_box_10shot_tennis racket_trainval.txt
+bottle /scratch/bykang/coco/cocolist/full_box_10shot_bottle_trainval.txt
+wine glass /scratch/bykang/coco/cocolist/full_box_10shot_wine glass_trainval.txt
+cup /scratch/bykang/coco/cocolist/full_box_10shot_cup_trainval.txt
+fork /scratch/bykang/coco/cocolist/full_box_10shot_fork_trainval.txt
+knife /scratch/bykang/coco/cocolist/full_box_10shot_knife_trainval.txt
+spoon /scratch/bykang/coco/cocolist/full_box_10shot_spoon_trainval.txt
+bowl /scratch/bykang/coco/cocolist/full_box_10shot_bowl_trainval.txt
+banana /scratch/bykang/coco/cocolist/full_box_10shot_banana_trainval.txt
+apple /scratch/bykang/coco/cocolist/full_box_10shot_apple_trainval.txt
+sandwich /scratch/bykang/coco/cocolist/full_box_10shot_sandwich_trainval.txt
+orange /scratch/bykang/coco/cocolist/full_box_10shot_orange_trainval.txt
+broccoli /scratch/bykang/coco/cocolist/full_box_10shot_broccoli_trainval.txt
+carrot /scratch/bykang/coco/cocolist/full_box_10shot_carrot_trainval.txt
+hot dog /scratch/bykang/coco/cocolist/full_box_10shot_hot dog_trainval.txt
+pizza /scratch/bykang/coco/cocolist/full_box_10shot_pizza_trainval.txt
+donut /scratch/bykang/coco/cocolist/full_box_10shot_donut_trainval.txt
+cake /scratch/bykang/coco/cocolist/full_box_10shot_cake_trainval.txt
+chair /scratch/bykang/coco/cocolist/full_box_10shot_chair_trainval.txt
+sofa /scratch/bykang/coco/cocolist/full_box_10shot_sofa_trainval.txt
+pottedplant /scratch/bykang/coco/cocolist/full_box_10shot_pottedplant_trainval.txt
+bed /scratch/bykang/coco/cocolist/full_box_10shot_bed_trainval.txt
+diningtable /scratch/bykang/coco/cocolist/full_box_10shot_diningtable_trainval.txt
+toilet /scratch/bykang/coco/cocolist/full_box_10shot_toilet_trainval.txt
+tvmonitor /scratch/bykang/coco/cocolist/full_box_10shot_tvmonitor_trainval.txt
+laptop /scratch/bykang/coco/cocolist/full_box_10shot_laptop_trainval.txt
+mouse /scratch/bykang/coco/cocolist/full_box_10shot_mouse_trainval.txt
+remote /scratch/bykang/coco/cocolist/full_box_10shot_remote_trainval.txt
+keyboard /scratch/bykang/coco/cocolist/full_box_10shot_keyboard_trainval.txt
+cell phone /scratch/bykang/coco/cocolist/full_box_10shot_cell phone_trainval.txt
+microwave /scratch/bykang/coco/cocolist/full_box_10shot_microwave_trainval.txt
+oven /scratch/bykang/coco/cocolist/full_box_10shot_oven_trainval.txt
+toaster /scratch/bykang/coco/cocolist/full_box_10shot_toaster_trainval.txt
+sink /scratch/bykang/coco/cocolist/full_box_10shot_sink_trainval.txt
+refrigerator /scratch/bykang/coco/cocolist/full_box_10shot_refrigerator_trainval.txt
+book /scratch/bykang/coco/cocolist/full_box_10shot_book_trainval.txt
+clock /scratch/bykang/coco/cocolist/full_box_10shot_clock_trainval.txt
+vase /scratch/bykang/coco/cocolist/full_box_10shot_vase_trainval.txt
+scissors /scratch/bykang/coco/cocolist/full_box_10shot_scissors_trainval.txt
+teddy bear /scratch/bykang/coco/cocolist/full_box_10shot_teddy bear_trainval.txt
+hair drier /scratch/bykang/coco/cocolist/full_box_10shot_hair drier_trainval.txt
+toothbrush /scratch/bykang/coco/cocolist/full_box_10shot_toothbrush_trainval.txt

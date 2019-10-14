@@ -1,0 +1,9 @@
+/scratch/bykang/datasets/VOCdevkit/VOC2007/JPEGImages/001543.jpg
+/scratch/bykang/datasets/VOCdevkit/VOC2012/JPEGImages/2008_004497.jpg
+/scratch/bykang/datasets/VOCdevkit/VOC2012/JPEGImages/2008_001781.jpg
+/scratch/bykang/datasets/VOCdevkit/VOC2012/JPEGImages/2009_000937.jpg
+/scratch/bykang/datasets/VOCdevkit/VOC2012/JPEGImages/2008_007050.jpg
+/scratch/bykang/datasets/VOCdevkit/VOC2007/JPEGImages/009129.jpg
+/scratch/bykang/datasets/VOCdevkit/VOC2012/JPEGImages/2009_000242.jpg
+/scratch/bykang/datasets/VOCdevkit/VOC2007/JPEGImages/008409.jpg
+/scratch/bykang/datasets/VOCdevkit/VOC2007/JPEGImages/001878.jpg
