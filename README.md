@@ -1,10 +1,8 @@
 # Few-shot Object Detection via Feature Reweighting
 
-Implementation for the paper 
+Implementation for the paper:
 
-[Few-shot Object Detection via Feature Reweighting](https://arxiv.org/abs/1812.01866)
-
-In ICCV 2019.
+[Few-shot Object Detection via Feature Reweighting](https://arxiv.org/abs/1812.01866), ICCV 2019
 
 [Bingyi Kang](scholar.google.com.sg/citations?user=NmHgX-wAAAAJ)\*, [Zhuang Liu](https://liuzhuang13.github.io)\*, [Xin Wang](https://people.eecs.berkeley.edu/~xinw/), [Fisher Yu](https://www.yf.io), [Jiashi Feng](https://sites.google.com/site/jshfeng/home) and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (\* equal contribution)
 
