@@ -6,7 +6,11 @@ Implementation for the paper:
 
 [Bingyi Kang](scholar.google.com.sg/citations?user=NmHgX-wAAAAJ)\*, [Zhuang Liu](https://liuzhuang13.github.io)\*, [Xin Wang](https://people.eecs.berkeley.edu/~xinw/), [Fisher Yu](https://www.yf.io), [Jiashi Feng](https://sites.google.com/site/jshfeng/home) and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (\* equal contribution)
 
-Our code is based on  [https://github.com/marvis/pytorch-yolo2](https://github.com/marvis/pytorch-yolo2) and developed with  Python 3.6 & PyTorch 0.3.1.
+Our code is based on  [https://github.com/marvis/pytorch-yolo2](https://github.com/marvis/pytorch-yolo2) and developed with  Python 2.7 & PyTorch 0.3.1.
+
+
+
+
 
 ## Detection Examples (3-shot)
 
@@ -23,9 +27,8 @@ Sample novel class detection results with 3-shot training bounding boxes, on PAS
 <img src="https://user-images.githubusercontent.com/8370623/67256408-ad583e00-f43b-11e9-806e-47d79acecaed.png" width="740">
 </div>
 
-<div align=center>
 The architecture of our proposed few-shot detection model. It consists of a meta feature extractor and a reweighting module. The feature extractor follows the one-stage detector architecture and directly regresses the objectness score (o), bounding box location (x, y, h, w) and classification score (c). The reweighting module is trained to map support samples of N classes to N reweighting vectors, each responsible for modulating the meta features to detect the objects from the corresponding class. A softmax based classification score normalization is imposed on the final output.
-</div> 
+
 
 ## Abstract
 Conventional training of a deep CNN based object detector demands a large number of bounding box annotations, which may be unavailable for rare categories. In this work we develop a few-shot object detector that can learn to detect novel objects from only a few annotated examples. Our proposed model leverages fully labeled base classes and quickly adapts to novel classes, using a meta feature learner and a reweighting module within a one-stage detection architecture. The feature learner extracts meta features that are generalizable to detect novel object classes, using training data from base classes with sufficient samples. The reweighting module transforms a few support examples from the novel classes to a global vector that indicates the importance or relevance of meta features for detecting the corresponding objects. These two modules, together with a detection prediction module, are trained end-to-end based on an episodic few-shot learning scheme and a carefully designed loss function. Through extensive experiments we demonstrate that our model outperforms well-established baselines by a large margin for few-shot object detection, on multiple datasets and settings. We also present analysis on various aspects of our proposed model, aiming to provide some inspiration for future few-shot detection works.
@@ -148,3 +151,10 @@ python valid_ensemble.py cfg/metatune.data cfg/darknet_dynamic.cfg cfg/reweighti
 python scripts/voc_eval.py results/path/to/comp4_det_test_
 ```
 
+## Citation
+@inproceedings{kang2019few,
+  title={Few-shot Object Detection via Feature Reweighting},
+  author={Kang, Bingyi and Liu, Zhuang and Wang, Xin and Yu, Fisher and Feng, Jiashi and Darrell, Trevor},
+  booktitle={ICCV},
+  year={2019}
+}
