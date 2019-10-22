@@ -152,9 +152,11 @@ python scripts/voc_eval.py results/path/to/comp4_det_test_
 ```
 
 ## Citation
+```
 @inproceedings{kang2019few,
   title={Few-shot Object Detection via Feature Reweighting},
   author={Kang, Bingyi and Liu, Zhuang and Wang, Xin and Yu, Fisher and Feng, Jiashi and Darrell, Trevor},
   booktitle={ICCV},
   year={2019}
 }
+```
