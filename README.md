@@ -4,7 +4,7 @@ Implementation for the paper:
 
 [Few-shot Object Detection via Feature Reweighting](https://arxiv.org/abs/1812.01866), ICCV 2019
 
-[Bingyi Kang](scholar.google.com.sg/citations?user=NmHgX-wAAAAJ)\*, [Zhuang Liu](https://liuzhuang13.github.io)\*, [Xin Wang](https://people.eecs.berkeley.edu/~xinw/), [Fisher Yu](https://www.yf.io), [Jiashi Feng](https://sites.google.com/site/jshfeng/home) and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (\* equal contribution)
+[Bingyi Kang](https://scholar.google.com.sg/citations?user=NmHgX-wAAAAJ)\*, [Zhuang Liu](https://liuzhuang13.github.io)\*, [Xin Wang](https://people.eecs.berkeley.edu/~xinw/), [Fisher Yu](https://www.yf.io), [Jiashi Feng](https://sites.google.com/site/jshfeng/home) and [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) (\* equal contribution)
 
 Our code is based on  [https://github.com/marvis/pytorch-yolo2](https://github.com/marvis/pytorch-yolo2) and developed with  Python 2.7 & PyTorch 0.3.1.
 
