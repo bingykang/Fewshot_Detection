@@ -40,7 +40,7 @@ for fname in ['voc_traindict_full.txt',
         lines = f.readlines()
 
     # Replace data root
-    lines = [line.replace('/scratch/bykang/datasets', args.droot) 
+    lines = [line.replace('/home/bykang/voc', args.droot) 
              for line in lines]
 
     # Rewrite linea
