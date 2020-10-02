@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+
+https://download.pytorch.org/whl/cpu/torch-0.3.1-cp27-cp27mu-linux_x86_64.whl ; sys_platform == "linux2"
+torchvision == 0.2.2
+future
+easydict
+numpy
+opencv-python == 3.4.2
